@@ -1,3 +1,4 @@
 # Exercism
 Exercism's Python Track
-My versions of Exercism's Python exercises https://exercism.io/tracks/python/exercises
+These are my personal versions of Exercism's Python exercises https://exercism.io/tracks/python/exercises
+This is for learning and enjoyment.
